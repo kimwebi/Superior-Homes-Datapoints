@@ -1,0 +1,28 @@
+[
+    {
+        "name": "self_evaluatation_data",
+        "dbType": "text",
+        "htmlType": "textarea",
+        "validations": "",
+        "autopopulated":true,
+        "searchable": true,
+        "fillable": false,
+        "primary": true,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "line_manager_evaluation_data",
+        "dbType": "text",
+        "htmlType": "textarea",
+        "validations": "",
+        "searchable": true,
+        "fillable": false,
+        "autopopulated":true,
+        "primary": true,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    }
+]

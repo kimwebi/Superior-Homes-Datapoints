@@ -1,0 +1,30 @@
+[
+    {
+        "name": "email",
+        "dbType": "text",
+        "htmlType": "email",
+        "validations": "",
+        "alert": true,
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false,
+        "inView": false
+    },
+    {
+        "name":"reminder",
+        "dbType":"text",
+        "htmlType":"text",
+        "validations":"",
+        "alert":true,
+       "searchable":true,
+       "clickable": true,
+       "fillable":false,
+       "primary":true,
+       "inForm":false,
+       "inIndex":false,
+       "inView":false
+
+    }
+]

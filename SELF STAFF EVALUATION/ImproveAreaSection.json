@@ -1,0 +1,50 @@
+[
+    {
+        "name": "question_3",
+        "dbType": "text",
+        "htmlType": "text",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false,
+        "inView": false
+    },
+    {
+        "name": "improvement_area_1",
+        "dbType": "text",
+        "htmlType": "textarea",
+        "validations": "nullable|string|max:500",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "improvement_area_2",
+        "dbType": "text",
+        "htmlType": "textarea",
+        "validations": "nullable|string|max:500",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    },
+    {
+        "name": "improvement_area_3",
+        "dbType": "text",
+        "htmlType": "textarea",
+        "validations": "nullable|string|max:500",
+        "searchable": true,
+        "fillable": true,
+        "primary": false,
+        "inForm": true,
+        "inIndex": true,
+        "inView": true
+    }
+]
