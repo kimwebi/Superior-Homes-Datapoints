@@ -1,5 +1,17 @@
 [
     {
+        "name": "id",
+        "dbType": "integer,false",
+        "htmlType": "number",
+        "validations": "",
+        "searchable": false,
+        "fillable": false,
+        "primary": true,
+        "inForm": false,
+        "inIndex": false,
+        "inView": false
+    },
+    {
         "name": "goal_to_achive_question",
         "dbType": "text",
         "htmlType": "text",
